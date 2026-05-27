@@ -1,5 +1,5 @@
 
-![Image description](https://github.com/GWSCGintota/AWS/blob/main/assets/image/Screenshot%202026-05-24%20140923.png)
+![Image description](https://github.com/GWSCGintota/AWS/blob/main/assets/image/vpc/vpc_1.png)
 
 ## **1.1 What is the VPC**
 In simple words, a **VPC is your own private network inside AWS cloud**. You can place your servers, databases, and other cloud resources inside it and control how they communicate with the internet and with each other.
