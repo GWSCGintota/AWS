@@ -7,7 +7,7 @@
 
 | Service Type | AWS Service | Description |
 |---|---|---|
-| [Object Storage](../storage_vs_database/database_services/object_storage%28s3%29/s3.md) | Amazon S3 | Highly scalable object storage for any type of data. |
+| [Object Storage](storage_services/object_storage%28s3%29/s3.md) | Amazon S3 | Highly scalable object storage for any type of data. |
 | Block Storage | Amazon EBS | High-performance block storage for EC2 instances. |
 | File Storage | Amazon EFS / Amazon FSx | Managed file storage for shared access. |
 | Archive Storage | Amazon S3 Glacier | Low-cost archive storage for long-term data retention. |
