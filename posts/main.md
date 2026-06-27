@@ -9,5 +9,8 @@
   - Storage
     - [S3](../posts/storage_vs_database/storage_services/object_storage(s3)/s3.md)
   - Database
-    - [RDS](../posts/storage_vs_database/database_services/Aurora_and_RDS/)
+    - [RDS And DynamoDB](../posts/storage_vs_database/database_services/Aurora_and_RDS/)
+  - Serverless,SNS,Monitoring & Alarms
+    -[Serverless,SNS,Monitoring & Alarms](../posts/serverless_lambda/serverless_lambda.md)
+  
  
